@@ -1,0 +1,23 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "basic chat using node and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "chat",
+    "socket.io"
+  ],
+  "author": "socket.io",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.8",
+    "socket.io": "^1.1.0"
+  }
+}
